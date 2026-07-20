@@ -1,16 +1,3 @@
-# Create a calculator that performs:
-# Addition
-# Subtraction
-# Multiplication
-# Division
-# Requirements
-# Handle invalid numeric input.
-# Handle division by zero.
-# Keep running until the user chooses to exit.
-# Hint:
-# Use try-except for user input and division.
-# Use if-else to validate the selected operation.
-# print(" calculator  ")
 t = True
 try:
     while t:
