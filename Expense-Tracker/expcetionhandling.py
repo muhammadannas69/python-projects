@@ -1,20 +1,3 @@
-# Task 10: Expense Tracker (Mini Project)
-# Menu
-# Add Expense
-# View Expenses
-# Calculate Total
-# Delete Expense
-# Exit
-# Handle
-# Invalid amount.
-# Negative amount.
-# Invalid index while deleting.
-# Empty expense list.
-# Invalid menu option.
-# Hint:
-# Use try-except for numeric input.
-# Use if-else to validate amounts and indexes.
-# Use finally to display a "Thank you" or cleanup message after each operation if appropriate.
 expenses = []
 while True:
     try:
